@@ -1,0 +1,1 @@
+{"name":"smartops-web","version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview"},"dependencies":{"lucide-react":"^0.468.0","react":"^19.0.0","react-dom":"^19.0.0","recharts":"^2.15.0","smartops":"file:..","vite":"^6.1.0"}}
